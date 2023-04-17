@@ -86,7 +86,7 @@ async def chatboton(client, message):
     filters.command("chatbot", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def chatbot(client, message):
-    await message.reply_text(f"**Usage:**\n/chatbot [on|off] only in groups. \n ✧Join:-@Logicxupdates✧. ")
+    await message.reply_text(f"**Usage:**\n/chatbot [on|off] only in groups. \n ✧Join:-https://t.me/XD_BOTZZ✧. ")
 
 
 @bot.on_message(
