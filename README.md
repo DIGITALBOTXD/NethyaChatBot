@@ -1,8 +1,8 @@
-# NethyaChatBot[DATABASE Based]
+# XDChatBot[DATABASE Based]
 Python Advance Chatbot.
 
 # About
-NethyaChatBot is an advanced AI chatbot that 
+XDChatBot is an advanced AI chatbot that 
 has the ability to Multiple language, contextualize messages, and respond in kind. She will adapt to conversations with multiple users; roleplaying, consolidating, arguing, and having fun, bringing a lot of personality and a unique sense of humor~ Nethya is designed to be the chatbot/friend you want her to be!
 
 # How To Host
@@ -27,7 +27,7 @@ The easiest way to deploy this Bot
 
 # REACH ME
 
-<p align="center"><a href="https://telegram.dog/The_logical_Guy"> <img src="https://img.shields.io/badge/Reach--@The__Logical__Guy-blue?style=for-the-badge&logo=telegram" width="" height="40"/></a></p>
+<p align="center"><a href="https://t.me/XD_BOTZZ"> <img src="https://img.shields.io/badge/Reach-- https://t.me/XD_BOTZZ -blue?style=for-the-badge&logo=telegram" width="" height="40"/></a></p>
 
 ##### Credit:- NethyaChatbot is basically created from Vick with some extra features So credit goes to its respective owner
  
